@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">WIA_2007_GroupProject</string>
+    <string name="app_name">HUNGO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="donate_food">Donate Food</string>
+    <string name="receive_food">Receive Food</string>
+    <string name="welcomes_you_to">welcomes you to</string>
+    <string name="add_yours">Add Yours</string>
+    <string name="navigation_drawer_open" translatable="false">Navigation drawer opened</string>
+    <string name="navigation_drawer_close" translatable="false">Navigation drawer closed</string>
 </resources>
